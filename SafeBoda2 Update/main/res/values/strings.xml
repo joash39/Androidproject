@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Safe Boda2</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Safe Boda</string>
+    <string name="nav_header_subtitle">Safe Ride Home</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_tabbed">Tabbed</string>
+    <string name="menu_sms">SMS</string>
+    <string name="menu_dial">Dial</string>
+    <string name="menu_call">Call</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_map">Map</string>
+    <string name="menu_email">Email</string>
+    <string name="menu_camera">Camera</string>
+    <string name="menu_pesa">M-PESA</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_tabbed">TabbedActivity</string>
+    <string name="tab_text_1">Home</string>
+    <string name="tab_text_2">Services</string>
+    <string name="tab_text_3">Products</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
